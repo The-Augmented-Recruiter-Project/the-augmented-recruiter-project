@@ -27,6 +27,9 @@ This section does not recommend tools or vendors.
 
 ## Hiring stages covered
 
+> See [Regulatory scope reference](../foundations/regulatory-scope.md) for links to where these hiring stages are discussed in the EU AI Act.
+
+
 ### Role definition and job design
 - Drafting job descriptions
 - Defining requirements and success criteria
