@@ -1,159 +1,72 @@
 # the-augmented-recruiter-project
-The Augmented Recruiter Project is an open-source guide to using AI in recruiting to reduce friction without replacing human judgment. It defines clear boundaries, prioritises transparency, and treats hiring as a shared, accountable responsibility across organisations.
 
-# The Augmented Recruiter Project - Manifesto  
-### Purpose
-The Augmented Recruiter Project exists to document how artificial intelligence can be used in recruiting systems to **reduce friction without replacing human judgment**.
-This is an open-source project focused on **principles, patterns, and boundaries**.
+The Augmented Recruiter Project is an open-source, non-commercial effort to document how artificial intelligence can be used in recruiting **to remove friction without replacing human judgment**.
 
-It is not a product, a vendor comparison, or a prediction about the future of work.
+The project focuses on methods, assumptions, failure modes, and open questions around AI-assisted hiring — with an emphasis on transparency, accountability, and restraint.
 
-Recruiting is a human system that directly affects people’s careers, identities, and livelihoods.  
+---
 
-Any use of AI in this domain must be approached with **restraint, clarity, and accountability**.
+## Why this exists
 
-### A Simple Position
+AI is increasingly embedded in recruiting systems, often without clear ownership, explanation, or limits.
 
-Artificial intelligence should support recruiting work by removing unnecessary friction.
+This project exists to:
+- clarify what “augmentation” should mean in hiring contexts
+- document responsible patterns for using AI without delegating judgment
+- surface trade-offs and risks rather than hiding them behind claims of efficiency
+- treat candidates as first-class stakeholders in hiring systems
 
-It should not replace:
-- judgment  
-- accountability  
-- responsibility for decisions  
+---
 
-When AI is used to automate judgment, obscure ownership, or hide decision-making behind opaque systems, it introduces risk rather than value.
+## What this project is (and is not)
 
-### What “Augmentation” Means
+**This project is:**
+- a documentation and research effort
+- vendor-neutral and non-commercial
+- grounded in real recruiting practice
+- written to be useful over time, not tied to trends
 
-In the context of this project, **augmentation** means:
-- reducing administrative and cognitive overhead  
-- supporting preparation, documentation, and coordination  
-- improving clarity and consistency in recruiting processes  
+**This project is not:**
+- a directory of AI recruiting tools
+- a product comparison or buyer’s guide
+- a claim that AI improves hiring decisions
+- a replacement for human accountability
 
-Augmentation does **not** mean:
-- evaluating human worth  
-- predicting individual success  
-- making hiring decisions on behalf of people  
+---
 
-AI should make humans **more available** for the parts of recruiting that require context, intent, and discernment.
+## What’s in this repository
 
-### Recruiting Is a Shared Responsibility
+This repository contains the source for a GitHub Pages site, organised into:
 
-Recruiting is not owned by people with “recruiter” in their job title.
+- **Foundations** — principles, definitions, assumptions, and non-goals  
+- **Methodologies** — ways to test, implement, and govern AI in recruiting  
+- **Candidate perspective** — what job seekers should know and expect  
+- **Tooling & experiments** — small, inspectable reference implementations  
+- **Resources** — curated research, regulation, and critical writing  
+- **Case studies** — situated examples and post-mortems  
 
-Anyone who:
-- defines a role  
-- interviews candidates  
-- sets hiring standards  
-- approves or blocks decisions  
+The rendered site lives in the `/docs` directory.
 
-…is actively recruiting.
+---
 
-This includes:
-- hiring managers  
-- founders and CEOs  
-- senior engineers  
-- executives and team leads  
+## How to navigate
 
-At senior levels, recruiting quality becomes a **strategic asset or liability**.  
-Poor recruiting decisions compound into delivery delays, attrition, and organisational drag.  
-Strong recruiting systems enable teams to scale with intent.
+- Start with the **Foundations** to understand the project’s boundaries
+- Read the **Manifesto** for a concise statement of intent
+- Use **Methodologies** and **Case Studies** for practical work
+- Refer to **Resources** for external material
 
-AI used in recruiting therefore affects the **entire organisation**, not just talent teams.
+---
 
-## Core Boundaries for AI in Recruiting
+## License
 
-This project holds the following boundaries.
+Unless otherwise stated, content is licensed under **CC BY-SA 4.0**.
 
-### AI Should Remove Friction, Not Replace Judgment
+---
 
-Judgment implies responsibility.  
-Responsibility must remain human, named, and accountable.
+## Status
 
-AI may support judgment, but it must not replace it.
+This project is under active development.  
+Some sections are incomplete by design.
 
-### AI Should Not Make Decisions About People
-
-AI systems must not:
-- decide who is hired  
-- rank human value  
-- make final judgments about individuals  
-
-Any system that does so undermines accountability, regardless of performance claims.
-
-### Recruiting Data Requires Restraint
-
-Recruiting systems handle sensitive personal data.
-
-This demands:
-- clear data ownership  
-- limited access  
-- traceability of use  
-- explicit purpose boundaries  
-
-Centralised, opaque systems introduce legal, ethical, and operational risk.
-
-### Transparency Is a Prerequisite for Trust
-
-Candidates and interviewers should be able to understand:
-- where AI is used  
-- what it does  
-- what it does not do  
-
-Opacity erodes trust, even when outcomes appear neutral.
-
-### AI Cannot Fix Poorly Defined Work
-
-Many failures attributed to AI are failures of definition:
-- job ads mistaken for job descriptions  
-- inconsistent evaluation criteria  
-- unclear ownership of decisions  
-
-AI cannot compensate for ambiguous roles or incoherent expectations.
-
-### What This Project Is Not
-
-The Augmented Recruiter Project is not:
-- a guide to automating hiring decisions  
-- an endorsement of specific tools or vendors  
-- a claim that AI will “fix” recruiting  
-- a substitute for thoughtful leadership  
-
-It is an attempt to be explicit about **trade-offs, limits, and design choices**.
-
-### A Commitment to Openness
-
-This project is intentionally open and non-commercial.
-
-It is guided by the same principle that shaped the early web.
-
-When **Tim Berners-Lee** created the World Wide Web in 1989, the goal was simple:
-
-- it should be used by everyone  
-- it should contain everything  
-- it should be free  
-
-That ethos matters here.
-
-Recruiting infrastructure shapes access to work.  
-Access to work shapes lives.
-
-The ideas, patterns, and resources in this project should remain:
-
-- open  
-- inspectable  
-- adaptable  
-- free to use  
-
-## An Open Invitation
-
-This project is intentionally unfinished.
-
-It exists to:
-- document patterns and failures  
-- surface trade-offs and constraints  
-- share templates and system designs  
-- encourage clearer thinking about recruiting systems  
-
-Recruiting shapes organisations.  
-How we choose to augment it will shape them further.
+Disagreement and critique are expected and encouraged.
