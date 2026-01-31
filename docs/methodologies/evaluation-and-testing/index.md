@@ -1,12 +1,12 @@
 # Evaluation & Testing
 
-This section documents ways of evaluating AI-assisted recruiting systems that go beyond performance claims or vendor metrics.
+This section documents ways of evaluating AI-assisted recruiting systems that go beyond performance claims, benchmarks, or vendor metrics.
 
 Evaluation here is concerned with:
-- how systems behave in practice
-- how humans interact with them
-- how outcomes change over time
-- where responsibility quietly shifts or disappears
+- how systems behave in practice  
+- how humans interact with them  
+- how outcomes change over time  
+- where responsibility quietly shifts or disappears  
 
 Testing is treated as an **ongoing practice**, not a one-time validation step.
 
@@ -14,35 +14,47 @@ Testing is treated as an **ongoing practice**, not a one-time validation step.
 
 ## What evaluation means in this project
 
-Evaluation is not about proving that a system is “accurate” or “fair”.
+Evaluation is not about proving that a system is “accurate”, “fair”, or “safe”.
 
 It is about answering questions such as:
-- What does this system actually do in a real hiring flow?
+- What does this system actually do inside a real hiring flow?
 - How stable is its behaviour under small changes?
-- How do candidates and hiring managers interpret it?
+- How do candidates and hiring managers interpret its outputs?
 - What decisions does it influence indirectly?
 - How does it reshape the hiring funnel over time?
 
-Many important failures in recruiting AI do not show up in dashboards.  
-They show up in behaviour, confusion, silence, or gradual drift.
+Many important failures in recruiting AI do not appear in dashboards.  
+They surface instead through behaviour, confusion, silence, or gradual drift.
 
 ---
 
 ## Types of evaluation documented here
 
-This section includes multiple, complementary approaches:
+This section includes several complementary approaches, each documented as a standalone method.
 
 - **Controlled input testing**  
-  Using fixed or shared inputs (e.g. anonymised CV sets) to probe consistency, sensitivity, and thresholds.
+  Using fixed or shared inputs (e.g. anonymised CV sets) to probe consistency, sensitivity, and thresholds.  
+  → See: [Shared CV Set Testing](./shared-cv-set-testing.md)
 
 - **Contextual interaction testing**  
-  Informal, human-centred testing of how people experience and respond to AI-mediated interactions in recruiting flows.
+  Human-centred testing of how recruiters and hiring managers experience and respond to AI-mediated interactions in real workflows.  
+  → See: [Contextual Interaction Testing](./contextual-interaction-testing.md)
 
 - **Funnel-level and longitudinal analysis**  
-  Examining how hiring outcomes, drop-off points, and behaviour change over time after AI is introduced.
+  Examining how hiring outcomes, drop-off points, and decision patterns change over time after AI is introduced.  
+  → See: [Funnel Change Over Time](./funnel-change-over-time.md)
 
-- **Sanity checks and desk-side review**  
-  Structured human review of system outputs in context, outside formal reporting environments.
+- **Candidate experience signals**  
+  Treating candidate feedback, silence, and behavioural signals as early indicators of system-level issues.  
+  → See: [Candidate Feedback Signals](./candidate-feedback-signals.md)
+
+- **Drift detection and stability checks**  
+  Simple, repeatable techniques for spotting silent behavioural change without access to model internals.  
+  → See: [Simple Drift Detection](./simple-drift-detection.md)
+
+- **Minimum auditability checks**  
+  Defining the lowest acceptable bar for traceability, explainability, and post-hoc inspection.  
+  → See: [Minimum Auditability](./minimum-auditability.md)
 
 No single method is sufficient on its own.
 
@@ -50,11 +62,11 @@ No single method is sufficient on its own.
 
 ## Limits of evaluation
 
-Evaluation methods documented here:
-- do not certify compliance
-- do not guarantee fairness
-- do not generalise across contexts
-- do not replace human responsibility
+The methods documented here:
+- do not certify compliance  
+- do not guarantee fairness  
+- do not generalise across organisations or roles  
+- do not replace human responsibility  
 
 They are intended to surface risk, ambiguity, and unintended consequences early — while there is still room to intervene.
 
@@ -62,6 +74,6 @@ They are intended to surface risk, ambiguity, and unintended consequences early 
 
 ## Status
 
-This section will be built incrementally.
+This section is built incrementally.
 
-Methods are added only where they clarify real behaviour or reveal failure modes that are otherwise easy to miss.
+Methods are added only where they clarify real system behaviour or expose failure modes that are otherwise easy to miss.
