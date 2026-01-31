@@ -8,6 +8,17 @@ This project does **not** provide legal advice or compliance guidance.
 
 ---
 
+## Design implications
+
+While this project does not attempt to interpret or implement specific regulatory
+requirements, it assumes that recruiting systems operate in environments where
+auditability, accountability, and explainability matter.
+
+As a result, many of the methodologies and examples in this repository prioritise
+deterministic automation over opaque or probabilistic AI approaches.
+
+---
+
 ## How to read this page
 
 - This page maps **common hiring activities** to **where they are referenced in the EU AI Act**
