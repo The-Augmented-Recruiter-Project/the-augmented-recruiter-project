@@ -1,8 +1,8 @@
 # the-augmented-recruiter-project
 
-The Augmented Recruiter Project is an open-source, non-commercial effort to document how artificial intelligence can be used in recruiting **to remove friction without replacing human judgment**.
+The Augmented Recruiter Project is an open-source, non-commercial effort to document how artificial intelligence and automation can be used in recruiting **to remove friction without replacing human judgment**.
 
-The project focuses on methods, assumptions, failure modes, and open questions around AI-assisted hiring — with an emphasis on transparency, accountability, and restraint.
+The project focuses on methods, assumptions, failure modes and open questions around AI-assisted hiring — with an emphasis on transparency, accountability, and restraint.
 
 ---
 
@@ -12,7 +12,7 @@ AI is increasingly embedded in recruiting systems, often without clear ownership
 
 This project exists to:
 - clarify what “augmentation” should mean in hiring contexts
-- document responsible patterns for using AI without delegating judgment
+- document responsible patterns for using AI and Automation without delegating judgment
 - surface trade-offs and risks rather than hiding them behind claims of efficiency
 - treat candidates as first-class stakeholders in hiring systems
 
@@ -38,7 +38,6 @@ This project exists to:
 
 This repository contains the source for a GitHub Pages site, organised into:
 
-
 - **[Foundations](docs/foundations/)** — principles, definitions, assumptions, and non-goals  
 - **[Methodologies](docs/methodologies/)** — ways to test, implement, and govern AI in recruiting  
 - **[Candidate perspective](docs/candidate-perspective/)** — what job seekers should know and expect  
@@ -52,10 +51,10 @@ The rendered site lives in the `/docs` directory.
 
 ## How to navigate
 
-- Start with the **Foundations** to understand the project’s boundaries
-- Read the **Manifesto** for a concise statement of intent
-- Use **Methodologies** and **Case Studies** for practical work
-- Refer to **Resources** for external material
+- Start with **[Foundations](./foundations/)** to understand the project’s boundaries  
+- Read the **[Manifesto](./foundations/manifesto.md)** for a concise statement of intent  
+- Use **[Methodologies](./methodologies/)** and **[Case Studies](./case-studies/)** for practical work  
+- Refer to **[Resources](./resources/)** for external material
 
 ---
 
