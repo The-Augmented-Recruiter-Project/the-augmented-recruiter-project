@@ -34,7 +34,7 @@ Everything else in the project should be read through the lens set here.
 
 ## Relationship to regulation
 
-This principle does not depend on any specific regulatory framework.
+This project does not depend on any specific regulatory framework.
 
 However, systems that are:
 - deterministic,
@@ -45,7 +45,8 @@ tend to survive regulatory change better than systems that rely on opaque or
 probabilistic decision-making.
 
 Automation is therefore treated as a safer default for augmentation, with AI
-introduced selectively and deliberately.
+introduced selectively and deliberately. 
+See **[Automation first Augmentation](docs/foundations/automation-first-augmentation.md)**
 
 ---
 
