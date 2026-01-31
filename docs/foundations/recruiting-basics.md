@@ -8,9 +8,9 @@ Everything else is implementation detail.
 
 ---
 
-## The three irreducible elements of recruiting
+## The four irreducible elements of recruiting
 
-At its most fundamental level, recruiting consists of three elements.
+At its most fundamental level, recruiting consists of four elements.
 
 If any one of these fails, hiring fails.
 
@@ -30,7 +30,30 @@ Poorly defined problems produce strong-looking hires that fail anyway.
 
 ---
 
-### 2. Capability: can someone do the job?
+### 2. Sourcing: how candidates enter the conversation
+
+Sourcing is the activity of identifying and engaging people
+who may be relevant to the problem being solved.
+
+It is not an element of recruiting itself,
+but the mechanism by which capability and intent can be explored.
+
+Sourcing determines:
+- who gets the opportunity to discuss the problem
+- what initial assumptions are made about relevance
+- what context candidates bring into the process
+
+Different sourcing approaches embed different assumptions about:
+- intent
+- availability
+- risk tolerance
+- power and leverage
+
+These assumptions often go unexamined.
+
+---
+
+### 3. Capability: can someone do the job?
 
 This is the domain of assessment.
 
@@ -53,7 +76,7 @@ It does not answer whether they will.
 
 ---
 
-### 3. Intent: does someone want to do the job?
+### 4. Intent: does someone want to do the job?
 
 Intent answers a different question:
 
@@ -76,13 +99,21 @@ Hiring systems that ignore this systematically misinterpret outcomes.
 Many recruiting failures come from collapsing these elements into one another.
 
 Common examples:
-- treating rejection as lack of capability when it is lack of intent
-- treating non-response as lack of interest rather than contextual mismatch
+- sourcing choices are mistaken for intent
+- assessment outcomes are mistaken for motivation
+- non-response is mistaken for lack of capability
 - treating assessment scores as predictors of acceptance
+- treating rejection as lack of capability when it is lack of intent
 
-This project treats these elements as **distinct, interacting variables**.
+This project treats:
+- the problem
+- capability
+- intent
+- and sourcing assumptions
 
-They must be evaluated separately.
+as distinct, interacting components.
+
+They must be examined separately to understand system behaviour.
 
 ---
 
