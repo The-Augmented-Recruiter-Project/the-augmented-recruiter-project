@@ -32,6 +32,23 @@ Everything else in the project should be read through the lens set here.
 
 ---
 
+## Relationship to regulation
+
+This principle does not depend on any specific regulatory framework.
+
+However, systems that are:
+- deterministic,
+- inspectable,
+- and human-governed
+
+tend to survive regulatory change better than systems that rely on opaque or
+probabilistic decision-making.
+
+Automation is therefore treated as a safer default for augmentation, with AI
+introduced selectively and deliberately.
+
+---
+
 ## How to read this section
 
 If you are new to the project:
