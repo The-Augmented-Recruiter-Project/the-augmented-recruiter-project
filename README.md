@@ -51,10 +51,10 @@ The rendered site lives in the `/docs` directory.
 
 ## How to navigate
 
-- Start with **[Foundations](./foundations/)** to understand the project’s boundaries  
-- Read the **[Manifesto](./foundations/manifesto.md)** for a concise statement of intent  
-- Use **[Methodologies](./methodologies/)** and **[Case Studies](./case-studies/)** for practical work  
-- Refer to **[Resources](./resources/)** for external material
+- Start with **[Foundations](docs/foundations/)** to understand the project’s boundaries  
+- Read the **[Manifesto](docs/foundations/manifesto.md)** for a concise statement of intent  
+- Use **[Methodologies](docs/methodologies/)** and **[Case Studies](docs/case-studies/)** for practical work  
+- Refer to **[Resources](docs/resources/)** for external material
 
 ---
 
