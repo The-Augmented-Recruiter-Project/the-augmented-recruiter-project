@@ -9,7 +9,6 @@ It is shaped by practical experience working with recruiting systems in Europe, 
 ## Practical Constraints, Not Ideology
 
 Recruiting in Europe operates under explicit constraints:
-
 - personal data is protected by default  
 - decision-making must be explainable  
 - responsibility cannot be delegated to systems  
@@ -19,7 +18,6 @@ These are not abstract principles.
 They are enforced through regulation, labour law, and social expectation.
 
 Working within these constraints makes certain design choices unavoidable:
-
 - opacity is a liability, not a feature  
 - automation without accountability is unacceptable  
 - systems that obscure responsibility fail under scrutiny  
@@ -86,7 +84,6 @@ Beyond that boundary, risk increases faster than benefit.
 This project reflects European legal and cultural constraints, but it is not limited to Europe.
 
 The principles outlined here are intended to be:
-
 - portable across jurisdictions  
 - adaptable to different organisational sizes  
 - applicable regardless of tooling choices  
@@ -95,12 +92,35 @@ Where local laws are weaker, the arguments for transparency and accountability b
 
 ---
 
+## Why automation matters as much as AI
+
+This project comes from direct experience building recruiting systems at scale,
+under real legal and organisational constraints.
+
+In practice, many of the most valuable “AI-like” gains in recruiting come from
+automation rather than machine learning:
+deterministic workflows, rule-based triage, structured data capture,
+and predictable decision support.
+
+These approaches are:
+- Easier to audit
+- Easier to explain
+- Easier to govern
+- Far less exposed to regulatory risk
+
+The Augmented Recruiter project treats automation as a first-class tool for
+augmentation — not as a stepping stone to AI, but as a durable solution in its
+own right.
+
+
+---
+
 ## Traceability
 
 This project was initiated by a single contributor working with recruiting systems in Europe.
 
 Professional context is provided for traceability only:
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/trisrevill
 
 This reference is not intended to confer authority or ownership.  
 The project does not depend on the author’s role, credentials, or ongoing involvement.
