@@ -1,5 +1,4 @@
-# Manifesto  
-## The Augmented Recruiter Project
+# The Augmented Recruiter Project Manifesto
 
 ## Purpose
 
@@ -13,9 +12,9 @@ Any use of AI in this domain must be approached with **restraint, clarity, and a
 
 ---
 
-## A Simple Position
+## A Simple Position 
 
-Artificial intelligence should support recruiting work by removing unnecessary friction.
+Artificial intelligence and Automation should remove unnecessary friction from recruiting work.
 
 It should not replace:
 
@@ -23,25 +22,66 @@ It should not replace:
 - accountability  
 - responsibility for decisions  
 
-When AI is used to automate judgment, obscure ownership, or hide decision-making behind opaque systems, it introduces risk rather than value.
+When AI is used to automate judgment, obscure ownership, or hide decision-making behind opaque systems, it **creates risk** rather than value.
 
 ---
 
-## What “Augmentation” Means
+## What “Augmentation” Means Here
 
-In the context of this project, **augmentation** means:
+Augmentation means using tools to recruit **more effectively**.
 
-- reducing administrative and cognitive overhead  
-- supporting preparation, documentation, and coordination  
-- improving clarity and consistency in recruiting processes  
+It means doing what most people are already being asked to do at work:
+
+**do more with less**.
+
+In recruiting, that looks like:
+
+- spending less time on manual admin  
+- spending less time reformatting, chasing, and duplicating work  
+- spending less time translating between systems  
+- spending more time on judgment, conversations, and decisions  
+
+Augmentation is about **capacity**, not capability.
+
+It is about freeing time and attention — not outsourcing thinking.
+
+---
 
 Augmentation does **not** mean:
 
 - evaluating human worth  
 - predicting individual success  
-- making hiring decisions on behalf of people  
+- deciding who should or should not be hired  
 
-AI should make humans **more available** for the parts of recruiting that require context, intent, and discernment.
+Those are human responsibilities.
+
+---
+
+Used well, AI should help recruiters:
+
+- stay organised  
+- stay consistent  
+- stay focused on the work that actually requires a human  
+
+AI should make humans **more effective at their jobs**,  
+not less involved in their decisions.
+
+---
+
+### Why this matters
+
+When tools are framed as “intelligence” rather than **support**,  
+responsibility quietly shifts.
+
+This project treats augmentation as **work support**, not delegated judgment.
+
+That boundary is deliberate.
+
+---
+
+**One-sentence definition**
+
+**Augmentation is the use of tools to reduce friction in recruiting work while keeping judgment, responsibility, and decisions firmly human.**
 
 ---
 
@@ -150,7 +190,7 @@ It is an attempt to be explicit about **trade-offs, limits, and design choices**
 
 ---
 
-## A Commitment to Openness
+## The Augmented Recruiter Project's Commitment to Openness
 
 This project is intentionally open and non-commercial.
 
@@ -175,7 +215,7 @@ The ideas, patterns, and resources in this project should remain:
 
 ---
 
-## An Open Invitation
+## Your Open Invitation
 
 This project is intentionally unfinished.
 
