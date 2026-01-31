@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The Augmented Recruiter Project exists to document how artificial intelligence can be used in recruiting systems to **reduce friction without replacing human judgment**.
+The Augmented Recruiter Project exists to document how automation and artificial intelligence can be used in recruiting systems to **reduce friction without replacing human judgment**.
 
 This is an open-source project focused on **principles, patterns, and boundaries**.  
 It is not a product, a vendor comparison, or a prediction about the future of work.
@@ -156,7 +156,7 @@ This project is intentionally open and non-commercial.
 
 It is guided by the same principle that shaped the early web.
 
-When **:contentReference[oaicite:0]{index=0}** created the World Wide Web in 1989, the goal was simple:
+When **Tim Berners-Lee** created the World Wide Web in 1989, the goal was simple:
 
 - it should be used by everyone  
 - it should contain everything  
@@ -168,7 +168,6 @@ Recruiting infrastructure shapes access to work.
 Access to work shapes lives.
 
 The ideas, patterns, and resources in this project should remain:
-
 - open  
 - inspectable  
 - adaptable  
