@@ -70,12 +70,31 @@ Errors compound quietly.
 For that reason, restraint is treated here as a design requirement, not a limitation.
 
 Augmentation is valuable when it:
-
 - reduces friction  
 - improves clarity  
 - preserves human accountability  
 
 Beyond that boundary, risk increases faster than benefit.
+
+---
+
+## Regulation-aware, not regulation-bound
+
+The Augmented Recruiter project is designed to be regulation-agnostic but
+regulation-aware.
+
+It does not assume a single legal regime, vendor ecosystem, or jurisdiction.
+However, it takes seriously the reality that recruiting systems increasingly
+operate under legal, ethical, and organisational constraints.
+
+In practice, this means:
+- Favouring approaches that remain viable under scrutiny
+- Treating auditability and accountability as design inputs
+- Avoiding techniques that obscure responsibility or decision ownership
+
+This is not a compliance project.
+It is a systems design project that assumes regulation is a permanent condition,
+not a temporary obstacle.
 
 ---
 
@@ -111,7 +130,6 @@ These approaches are:
 The Augmented Recruiter project treats automation as a first-class tool for
 augmentation — not as a stepping stone to AI, but as a durable solution in its
 own right.
-
 
 ---
 
