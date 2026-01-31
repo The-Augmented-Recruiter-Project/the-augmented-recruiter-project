@@ -28,9 +28,10 @@ These elements define the boundaries within which augmentation can safely occur.
   A first-principles description of recruiting as the process of resolving a
   company problem by introducing a human being into a system.
 
-  This document defines the three irreducible elements of recruiting:
+  This document defines the four irreducible elements of recruiting:
   - a problem to be solved (role definition)
-  - capability (can someone do the job?)
+  - sourcing (finding the right people who may be able to fix the problem)
+  - capability (can someone do the job? actually fix the problem?)
   - intent (does someone want to do the job?)
 
 - **[Intent](./intent.md)**  
