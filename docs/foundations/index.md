@@ -35,7 +35,7 @@ These elements define the boundaries within which augmentation can safely occur.
   - intent (does someone want to do the job?)
 
 - **[Intent](./intent.md)**  
-  A focused examination of intent as one of the three irreducible elements of
+  A focused examination of intent as one of the four irreducible elements of
   recruiting.
 
   This document explains why intent is:
