@@ -1,4 +1,4 @@
-# Authoritative Resources: AI, Automation & Recruiting Systems
+# Resources: AI, Automation & Recruiting Systems
 
 This page curates **primary-source material** that shapes how AI and automation are actually used, governed, challenged, and evaluated in recruiting systems.
 
@@ -143,154 +143,84 @@ In contrast, the UK uses the **UK GDPR**, existing employment law, and governmen
 
 ---
 
-## Bias, Fairness & Auditability (Foundational)
+## Academic & Ethical Sources (with direct links where available)
 
-### Mitigating Bias in Algorithmic Hiring
-
-**Authors:** Manish Raghavan, Solon Barocas, Jon Kleinberg, Karen Levy  
-**Conference:** FAccT (Fairness, Accountability, and Transparency)
+### Is AI recruiting (un)ethical?  
+**A Human Rights Perspective on the Use of AI for Hiring**  
+**Authors:** Anna Lena Hunkenschroer & Alexander Kriebitz  
+**Journal:** *AI and Ethics*  
+**DOI / Publisher page:** https://link.springer.com/article/10.1007/s43681-022-00166-4 :contentReference[oaicite:0]{index=0}  
+**Open Access mirror (PMC):** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9309597/ :contentReference[oaicite:1]{index=1}
 
 **Why it matters:**  
-This is the most cited foundational work on auditing hiring algorithms. It distinguishes between:
-- bias in training data  
-- bias in the mathematical model  
-- bias introduced through deployment context  
-
-It underpins modern regulatory and compliance regimes (e.g. NYC Local Law 144).
-
-**Tags:** bias, auditability, fairness, evaluation
+Analyses whether AI hiring practices inherently conflict with the human rights concepts of autonomy, nondiscrimination, validity, privacy, and transparency. Argues that ethical evaluation must incorporate these normative dimensions rather than only technical performance.  
+**Tags:** ethics, human-rights, autonomy, nondiscrimination
 
 ---
 
-## Human Rights & Candidate Perspective
+### Explainable AI in Recruitment (XAI)
 
-### Is AI recruiting (un)ethical? A human rights perspective on the use of AI for hiring
-
-**Authors:** Anna Lena Hunkenschroer, Christoph Luetge  
-**Journal:** AI and Ethics  
+**Explainable Artificial Intelligence in the Talent Recruitment Process — a Literature Review**  
+**Authors:** Gening Zhang, Lin Pan, Fang Tang & Feng Yao  
+**Published:** 2025  
+**Publisher page:** https://ideas.repec.org/a/taf/oabmxx/v12y2025i1p2570881.html :contentReference[oaicite:2]{index=2}  
+**Note:** Full text is paywalled via Taylor & Francis and distributed through ResearchGate. A lighter abstract is available via RePEc.
 
 **Why it matters:**  
-Frames recruiting AI as a human dignity and legitimacy issue, not just a technical or efficiency problem. Frequently cited by EU policymakers and CHROs.
-
-**Tags:** candidate-impact, ethics, dignity, explainability
+Reviews the role of XAI mechanisms such as SHAP, LIME, causal reasoning, and knowledge graphs to enhance transparency and traceability in AI-assisted hiring.  
+**Tags:** explainability, transparency, XAI
 
 ---
 
-## Technical Feasibility & Data Constraints
+### Agentic AI in Recruiting
 
-### Artificial Intelligence in Human Resources Management: Challenges and a Path Forward
-
-**Authors:** Prasanna Tambe, Peter Cappelli, Valery Yakubovich  
-**Journal:** California Management Review  
-
-**Why it matters:**  
-A realism check against vendor claims. Argues most organisations lack sufficient data volume and structure for deep learning to work reliably in hiring, resulting in false positives and brittle models.
-
-**Tags:** feasibility, data-quality, realism, false-positives
-
----
-
-## Generative AI & Hiring Outcomes
-
-### The impact of generative AI (ChatGPT) on recruitment efficiency and candidate quality:  
-### The mediating role of process automation level
-
-**Authors:** Abdelhay et al.  
-**Journal:** Frontiers in Human Dynamics  
-**Published:** February 2025  
-
-**Why it matters:**  
-One of the first empirical studies linking GenAI use to *quality of hire*, not just speed.
-
-**Key findings:**
-- GenAI reduces bias in early screening stages  
-- Effectiveness is strongly moderated by organisational size  
-- Larger organisations benefit from richer internal datasets; smaller firms see diminishing returns  
-
-**Tags:** generative-ai, quality-of-hire, bias-mitigation, organisational-scale
-
----
-
-## Explainability & Compliance (XAI)
-
-### Explainable artificial intelligence in the talent recruitment process — a literature review
-
-**Authors:** Wu & Ye  
-**Published:** Mid-2025 (updated January 2026)
-
-**Why it matters:**  
-The leading synthesis on explainability in recruiting AI under emerging regulatory regimes.
-
-**Key contribution:**  
-Documents practical use of SHAP and LIME to explain candidate rankings and justify decisions to regulators and candidates.
-
-**Tags:** explainability, XAI, compliance, transparency
-
----
-
-## Agentic AI & Automation Trajectories
-
-### Agentic AI Powered Talent Analytics Enabling Talent Discovery: A Systematic Literature Review
-
-**Authors:** V.R. Kurchellapati, P. Challapalli  
+**Agentic AI Powered Talent Analytics Enabling Talent Discovery: A Systematic Literature Review**  
+**Authors:** V. R. Kurchellapati & P. Challapalli  
 **Published:** January 2026  
+**Publisher page (abstract / metadata):** https://xlescience.org/index.php/IJASIS/article/view/538 :contentReference[oaicite:3]{index=3}  
+**Note:** The full text may require journal access via institutional login or publisher platform.
 
 **Why it matters:**  
-The first large-scale systematic review of *agentic AI* applied to recruiting.
-
-**Core contribution:**
-- Introduces a **5-stage transformational model**, from simple automation to agentic orchestration  
-- Identifies a shift toward **intent-based sourcing**, where recruiters define a business problem and AI determines how and where to source talent  
-
-**Tags:** agentic-ai, sourcing, automation-maturity, orchestration
+Presents a 5-stage transformational model from automation to agentic orchestration, including “intent-based sourcing” where the recruiter defines the problem and the AI agent determines where and how to find candidates.  
+**Tags:** agentic-ai, talent-analytics, automation-maturity
 
 ---
 
-### Advances in Agentic AI: Back to the Future
+## **(If you have PDFs or DOIs for these next items, I can update with direct links)**
 
-**Author:** Marta Díez-Fernández  
-**Source:** arXiv / ResearchGate  
-**Published:** December 2025  
-
+### The Impact of Generative AI on Candidate Quality  
+**Title:** *The impact of generative AI (ChatGPT) on recruitment efficiency and candidate quality: The mediating role of process automation level*  
+**Authors:** Abdelhay et al.  
+**Journal:** *Frontiers in Human Dynamics* (Feb 2025)  
+**Suggested Link:** (Frontiers journals are open access) — https://www.frontiersin.org/journals/human-dynamics *(search title)*  
 **Why it matters:**  
-A critical counterpoint to agentic AI hype.
-
-**Key insight:**  
-Argues most organisations are not yet “algorithmic ecosystems” and lack a shared skills language between humans and machines, limiting true agentic transformation.
-
-**Tags:** agentic-ai, critical-analysis, skills-taxonomy, systems-readiness
+Empirical data connecting GenAI use with *hire quality*, showing that benefits vary with organisational size.  
+**Tags:** generative-ai, quality-of-hire, empirical
 
 ---
 
-## Management & Organisational Strategy
+### AI-Enabled Recruiting Strategy
 
-### AI-Enabled Recruiting: What is it and how should a manager use it?
-
-**Authors:** J.S. Black, P. van Esch  
-**Journal:** Business Horizons  
-
+**AI-Enabled Recruiting: What Is It and How Should a Manager Use It?**  
+**Authors:** J.S. Black & P. van Esch  
+**Journal:** *Business Horizons*  
+**Suggested DOI / Publisher page:** *(Requires institutional access, typical BH link pattern)* https://www.sciencedirect.com/journal/business-horizons *(search title)*  
 **Why it matters:**  
-A widely cited managerial framework that shifts focus from algorithms to organisational readiness.
-
-**Key contribution:**  
-Defines **three stages of AI maturity** in recruiting:
-1. Automation  
-2. Augmented intelligence  
-3. Predictive intelligence  
-
-**Tags:** management, AI-maturity, organisational-design, strategy
+Widely cited framework on organisational maturity with AI in recruiting — from automation to predictive intelligence.  
+**Tags:** organisational-design, strategy, AI-maturity
 
 ---
 
-## Institutional Data & Labour Market Signals
+## Notable Related Works (for deeper exploration)
 
-### Baromètre Unédic — Intelligence artificielle et recherche d’emploi
+### Human Rights & Ethics (additional coverage)
+- **Ethics of AI-Enabled Recruiting and Selection: A Review and Research Agenda** — Anna Lena Hunkenschroer & Christoph Luetge, Journal of Business Ethics. Summary: https://drpress.org/ojs/index.php/fbem/article/view/23466 :contentReference[oaicite:4]{index=4}
 
-**Publisher:** Unédic  
-**Primary source:**  
-https://www.unedic.org/publications/barometre-unedic-intelligence-artificielle-et-recherche-demploi
+### Other Relevant Horizons in Explainability & Fairness
+- **Fairness in AI-Driven Recruitment: Challenges, Metrics, Methods, and Future Directions** — Dena F. Mujtaba & Nihar R. Mahapatra (arXiv). https://arxiv.org/abs/2405.19699 :contentReference[oaicite:5]{index=5}
 
-**Why it matters:**  
-Provides institutional, non-vendor data on AI adoption by candidates and employers, useful for grounding claims about real-world usage.
+### Emerging Related Preprints (explainability + user experience)
+- **Explained, Yet Misunderstood: How AI Literacy Shapes HR Interpretation of XAI** — Kalff & Simbeck (arXiv) https://arxiv.org/abs/2509.06475 :contentReference[oaicite:6]{index=6}  
+- **Let’s Get You Hired: Job Seeker Perspective on Multi-Agent Explainers** — Bhattacharya & Verbert (arXiv) https://arxiv.org/abs/2505.20312 :contentReference[oaicite:7]{index=7}  
+- **AI Hiring with LLMs: Context-Aware Explainable Multi-Agent Framework** — Lo et al. (arXiv) https://arxiv.org/abs/2504.02870 :contentReference[oaicite:8]{index=8}
 
-**Tags:** labour-market, adoption, institutional-data
