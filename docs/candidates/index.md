@@ -1,16 +1,19 @@
 # Candidate Perspective
 
-This section approaches AI-assisted recruiting from the standpoint of candidates and applicants — people who are subjected to hiring systems but do not choose or control them.
+**This section is written for candidates.**
 
-It exists to document what candidates should reasonably expect, what they can question, and where current practice often falls short.
+Specifically: job seekers who are trying to understand how AI and automation are used in recruiting, what their rights are, and what they can realistically do if they believe a hiring system has misjudged them.
 
-This section is not written for system buyers.
+This is not a guide for HR teams or vendors.  
+It is not advice on how to “beat” hiring systems.
+
+It exists to help candidates make sense of systems they are subjected to, but do not control.
 
 ---
 
 ## Why this section exists
 
-Recruiting systems are typically designed, evaluated, and procured without meaningful input from candidates.
+Modern recruiting systems are usually designed, evaluated, and purchased without meaningful input from candidates.
 
 As a result:
 - automation is often invisible
@@ -18,80 +21,213 @@ As a result:
 - responsibility is unclear when systems fail
 - candidates are expected to adapt without recourse
 
-This section treats candidates as first-class stakeholders rather than downstream users.
+When something goes wrong, candidates are frequently told — implicitly or explicitly — that “the AI decided”, even when that is not an accurate description of what happened.
+
+This section exists to:
+- explain what is *actually* happening in recruiting systems
+- correct common myths about “AI rejection”
+- clarify what the law does and does not protect
+- provide practical resources candidates can use if they want to question or respond
 
 ---
 
-## What candidates should know
+## A critical starting point: most rejections are not AI decisions
 
-### What is typically automated
-- Where automation is commonly used in recruiting workflows
-- What signals are likely machine-generated or machine-influenced
-- Where human review often stops earlier than claimed
+Many candidates assume that an automated rejection means:
 
-### What is rarely automated (despite assumptions)
-- Final hiring decisions
-- Legal responsibility
-- Interpretive judgment in edge cases
+> “An AI decided I wasn’t suitable.”
 
----
+In most cases, this is not true.
 
-## Transparency and explanation
+What usually drives early rejection is a combination of:
+- rule-based automation
+- knock-out questions
+- keyword or field filtering
+- ranking or sorting logic
+- human disengagement or overload
 
-### Disclosure of AI use
-- What meaningful disclosure looks like in practice
-- Where disclosure becomes performative
-- Common patterns of partial disclosure
+AI models may be involved in parts of the process — but far less often, and far less decisively, than marketing language suggests.
 
-### Explanation vs understanding
-- Why explanations do not always lead to clarity
-- The limits of technical explainability for candidates
-- When “explanation” functions as reassurance rather than information
+This distinction matters because:
+- different systems imply different legal obligations
+- different failures imply different remedies
+- blaming “AI” often obscures human and organisational responsibility
+
+Understanding what kind of system you are dealing with is the first step toward any meaningful response.
 
 ---
 
-## Consent, choice, and control
+## What is commonly automated in recruiting
 
-### The reality of consent
-- Why consent in hiring is rarely free or symmetrical
-- How consent is often bundled or implied
+### Commonly used
+- CV parsing and data extraction
+- Knock-out questions (location, salary, visa status, availability)
+- Keyword or field-based filtering
+- Ranking or sorting candidate lists
+- Automated rejection messaging
 
-### Opt-out and alternatives
-- When opt-outs exist only in theory
-- What realistic alternatives look like (and where they don’t)
+### Sometimes used
+- Resume similarity or matching models
+- Automated shortlisting support
+- Chatbots for scheduling or FAQs
+
+### Rarely used (despite assumptions)
+- Fully autonomous hiring decisions
+- AI systems with legal decision-making authority
+- Self-directed systems operating without human configuration
+
+Even when AI is used, a **human or organisation remains accountable** for the outcome.
 
 ---
 
-## Contestability and recourse
+## Why companies over-attribute decisions to “AI”
 
-### Questioning outcomes
-- What candidates can reasonably ask
-- What organisations should be able to answer
+Invoking AI often:
+- creates a sense of inevitability
+- discourages questioning
+- deflects responsibility
+- reframes poor process design as technical necessity
 
-### Appeals and challenges
-- Where appeal mechanisms exist
-- Where they collapse under scale or opacity
+This can leave candidates feeling that:
+- nothing can be challenged
+- explanations are meaningless
+- outcomes are final and unreviewable
+
+One purpose of this section is to make those dynamics visible.
 
 ---
 
-## Power asymmetry and harm
+## If you think an AI made a hiring decision about you
 
-### Structural imbalance
-- Why candidates carry most of the risk
-- How automation amplifies existing asymmetries
+You are allowed to ask.
 
-### Common candidate harms
-- Silent exclusion
-- False objectivity
-- Lost opportunity without explanation
+What matters is:
+- how the question is framed
+- what information you request
+- what obligations the organisation actually has
+
+This project provides:
+- plain-language explanations of candidate rights
+- examples of reasonable questions
+- templates designed to avoid sounding adversarial or naive
+- guidance on when organisations are required to respond
+
+**See:**  
+[What should I do if I think a hiring decision was made by AI?](/ai-decision-questions.md)
+
+---
+
+## If you think your data has been misused or mishandled
+
+Recruiting systems process:
+- personal data
+- inferred or derived data
+- sometimes sensitive or proxy data
+
+Candidates often struggle to understand:
+- whether AI was involved
+- what consent really means in hiring
+- how long their data is retained
+- what they can realistically request or challenge
+
+This section explains:
+- the difference between AI use and automated processing
+- what rights typically apply under data protection law
+- how to make proportionate, effective requests
+- when escalation may or may not be worth pursuing
+
+**See:**  
+[What do I do if I think my data is at risk or has been misused?](/data-rights-for-candidates.md)
+
+---
+
+## Is it AI, automation, or just poor process?
+
+Many candidate frustrations attributed to “AI” are actually caused by:
+- default ATS configurations
+- brittle automation rules
+- scale-driven shortcuts
+- lack of human review
+
+Understanding this difference helps candidates:
+- ask better questions
+- avoid being misled by technical language
+- focus attention on organisational choices rather than abstractions
+
+**See:**  
+[The reality of what happens in a recruiting process](/recruiting-reality-check.md)
+
+---
+
+## Templates and practical resources
+
+This section includes copy-ready templates designed to:
+- be legally accurate
+- remain calm and non-confrontational
+- maximise the likelihood of a response
+- minimise risk to the candidate
+
+Templates include:
+- asking whether automated decision-making was used
+- requesting clarification on screening or ranking
+- exercising data access or deletion rights
+- challenging misleading or vague disclosures
+
+**See:**  
+[Candidate templates and request examples](/candidate-templates.md)
+
+---
+
+## About naming “bad actors”
+
+This project does **not** maintain a public blacklist of vendors or employers.
+
+Reasons:
+- harm usually comes from patterns, not specific tools
+- the same software can be used responsibly or poorly
+- public lists age badly and oversimplify complex systems
+
+Instead, the project documents:
+- recurring failure modes
+- structural risk patterns
+- common points where accountability breaks down
+
+This allows candidates to recognise problems without relying on brand names.
+
+---
+
+## What this section will not promise
+
+This section does not promise:
+- fairness
+- guaranteed explanations
+- successful appeals
+- the ability to opt out of hiring systems
+- meaningful recourse in all cases
+
+Recruiting is a power-imbalanced system.  
+This section aims to provide **clarity, not comfort**.
+
+---
+
+## How to use this section
+
+You can:
+- read it end-to-end
+- jump directly to the situation that applies to you
+- copy and adapt templates
+- share links with other candidates
+- use it to pressure-test explanations you receive
+
+No technical background is required.
 
 ---
 
 ## Open questions
 
-- What does meaningful transparency look like at scale?
-- When does explanation meaningfully change outcomes?
+- When does explanation meaningfully help candidates?
 - How much recourse is realistic in high-volume hiring?
 - Where should human judgment be mandatory rather than optional?
+- What does meaningful transparency look like at scale?
 
 These questions are left open intentionally.
