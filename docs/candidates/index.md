@@ -178,24 +178,6 @@ Templates include:
 
 ---
 
-## About naming “bad actors”
-
-This project does **not** maintain a public blacklist of vendors or employers.
-
-Reasons:
-- harm usually comes from patterns, not specific tools
-- the same software can be used responsibly or poorly
-- public lists age badly and oversimplify complex systems
-
-Instead, the project documents:
-- recurring failure modes
-- structural risk patterns
-- common points where accountability breaks down
-
-This allows candidates to recognise problems without relying on brand names.
-
----
-
 ## What this section will not promise
 
 This section does not promise:
