@@ -2,9 +2,9 @@
 
 ## Why intent needs its own foundation
 
-Intent is one of the three irreducible elements of recruiting.
+Intent is one of the four irreducible elements of recruiting.
 
-Unlike problem definition and capability assessment, intent:
+Unlike problem definition, sourcing and capability assessment, intent:
 - changes rapidly
 - resists direct measurement
 - is easily distorted by process design
