@@ -40,7 +40,7 @@ This repository contains the source for a GitHub Pages site, organised into:
 
 - **[Foundations](docs/foundations/)** — principles, definitions, assumptions, and non-goals  
 - **[Methodologies](docs/methodologies/)** — ways to test, implement, and govern AI in recruiting  
-- **[Candidate perspective](docs/candidate-perspective/)** — what job seekers should know and expect  
+- **[Candidate perspective](docs/candidates/)** — what job seekers should know and expect  
 - **[Tooling & experiments](docs/tooling/)** — small, inspectable reference implementations  
 - **[Resources](docs/resources/)** — curated research, regulation, and critical writing  
 - **[Case studies](docs/case-studies/)** — situated examples and post-mortems  
