@@ -37,6 +37,25 @@ The complaint alleges that AI-generated candidate scores constitute unlawful “
 
 ---
 
+### Bundesgerichtshof (BGH) — Liability for Discrimination in Housing Market
+
+**Court:** Bundesgerichtshof (Federal Court of Justice of Germany)  
+**Decision date:** 29 January 2026  
+**Case number:** I ZR 129/25  
+**Context:** Application of the *Allgemeines Gleichbehandlungsgesetz* (AGG – General Equal Treatment Act) to housing market discrimination by a real estate agent.
+
+**Primary legal reference:**  
+BGH, *Urteil vom 29.01.2026 – I ZR 129/25* (liability for discriminatory conduct in housing decisions)  
+**Summary of press reporting:**  
+https://www.lto.de/recht/nachrichten/n/izr12925-bundesgerichtshof-bgh-makler-haftet-wegen-diskriminierung-agg-humaira-waseem/ :contentReference[oaicite:2]{index=2}
+
+**Why it matters:**  
+This ruling confirms that intermediaries (e.g., real estate agents) can be held liable under anti-discrimination law (*AGG*) for discriminatory outcomes produced through selection processes — even when not the formal contracting party. The legal principle that **liability attaches to the actor making exclusion decisions** is applicable to other automated or delegated decision systems, including algorithmic hiring tools.
+
+**Tags:** regulation, case-law, algorithmic-discrimination, accountability, cross-domain precedent
+
+---
+
 ### EU Artificial Intelligence Act — Canonical Sources
 
 **Regulation (EU) 2024/1689 — Artificial Intelligence Act**  
