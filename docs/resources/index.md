@@ -243,3 +243,177 @@ Widely cited framework on organisational maturity with AI in recruiting — from
 - **Let’s Get You Hired: Job Seeker Perspective on Multi-Agent Explainers** — Bhattacharya & Verbert (arXiv) https://arxiv.org/abs/2505.20312 :contentReference[oaicite:7]{index=7}  
 - **AI Hiring with LLMs: Context-Aware Explainable Multi-Agent Framework** — Lo et al. (arXiv) https://arxiv.org/abs/2504.02870 :contentReference[oaicite:8]{index=8}
 
+## Open Source Tooling & Frameworks (AI, Automation & Recruiting)
+
+This section lists **open source tools, datasets, benchmarks, and research frameworks** that are directly relevant to recruiting, hiring, candidate screening, and job recommendation systems.
+
+Inclusion criteria:
+- Open source or openly accessible research
+- Applicable to real recruiting or HR decision systems
+- Useful for evaluation, auditing, experimentation, or documentation
+- Non-vendor and non-SaaS
+
+---
+
+### Fairlearn — Fairness Assessment & Mitigation Toolkit
+
+**Type:** Open source library  
+**Repository:** https://github.com/fairlearn/fairlearn  
+**Paper:** https://arxiv.org/abs/2303.16626  
+
+**What it is:**  
+A Python toolkit for assessing and mitigating unfairness in machine learning models.
+
+**Why it matters for recruiting:**  
+Widely used to audit and mitigate bias in high-stakes decision systems, including candidate screening and ranking models.
+
+**Tags:** fairness, bias-audit, evaluation, tooling
+
+---
+
+### AI Fairness 360 (AIF360)
+
+**Type:** Open source library  
+**Repository:** https://github.com/ibm/aif360  
+**Paper:** https://arxiv.org/abs/1810.01943  
+
+**What it is:**  
+A comprehensive toolkit for detecting, understanding, and mitigating algorithmic bias across the ML lifecycle.
+
+**Why it matters for recruiting:**  
+Frequently referenced in academic and applied work evaluating fairness in hiring and employment decision systems.
+
+**Tags:** fairness, mitigation, audit, tooling
+
+---
+
+### Aequitas — Bias & Fairness Audit Toolkit
+
+**Type:** Open source library  
+**Repository:** https://github.com/dssg/aequitas  
+**Paper:** https://arxiv.org/abs/1811.05577  
+
+**What it is:**  
+A bias audit framework focused on population-level fairness metrics.
+
+**Why it matters for recruiting:**  
+Well-suited for evaluating disparate impact across demographic groups in hiring pipelines.
+
+**Tags:** audit, fairness-metrics, population-analysis
+
+---
+
+## Recruitment-Specific Benchmarks & Datasets
+
+### FAIRE — Fairness Assessment in Resume Evaluation
+
+**Type:** Benchmark + dataset  
+**Paper:** https://arxiv.org/abs/2504.01420  
+**PDF:** https://arxiv.org/pdf/2504.01420  
+**Code & data:** https://github.com/athenawen/FAIRE-Fairness-Assessment-In-Resume-Evaluation  
+
+**What it is:**  
+A benchmark designed specifically to assess racial and gender bias in AI-driven resume scoring and ranking systems.
+
+**Why it matters for recruiting:**  
+Provides structured evaluation protocols for fairness in resume evaluation — directly aligned with hiring use cases.
+
+**Tags:** benchmark, resume-evaluation, fairness, recruiting
+
+---
+
+### FairJob — Fairness Dataset for Job Recommendation Systems
+
+**Type:** Real-world dataset  
+**Paper:** https://arxiv.org/abs/2407.03059  
+**Dataset:** https://huggingface.co/datasets/criteo/FairJob  
+**Code:** https://github.com/criteo-research/FairJob-dataset  
+
+**What it is:**  
+A privacy-preserving dataset released for benchmarking fairness in job recommendation systems.
+
+**Why it matters for recruiting:**  
+Supports evaluation of fairness–utility trade-offs in job matching and recommendation pipelines.
+
+**Tags:** dataset, job-recommendation, fairness, benchmarking
+
+---
+
+### Djinni Recruitment Dataset
+
+**Type:** Real recruitment dataset  
+**Repository:** https://github.com/Stereotypes-in-LLMs/recruitment-dataset  
+
+**What it contains:**  
+- ~150k job descriptions  
+- ~230k anonymised candidate CVs  
+- Multi-language (English / Ukrainian)
+
+**Why it matters for recruiting:**  
+Provides rare access to large-scale, real recruitment data suitable for recommender systems, matching models, and bias research.
+
+**Tags:** dataset, candidate-profiles, job-postings, recruiting-data
+
+---
+
+### Recruitment Bias & Fairness Simulation Dataset
+
+**Type:** Synthetic dataset  
+**Dataset:** https://www.kaggle.com/datasets/rahuljangir78/recruitment-bias-and-fairness-ai-dataset  
+
+**What it is:**  
+A simulated dataset designed to explore demographic bias and fairness in AI-based recruitment systems.
+
+**Why it matters for recruiting:**  
+Useful for experimentation, teaching, and early-stage fairness testing when real data is unavailable.
+
+**Tags:** dataset, simulation, bias-testing
+
+---
+
+## Explainable & Matching Models (Research Frameworks)
+
+### OKRA — Explainable Multi-Stakeholder Job Recommender
+
+**Type:** Research model  
+**Paper:** https://arxiv.org/abs/2504.07108  
+
+**What it is:**  
+An explainable job recommender system designed to balance candidate and employer perspectives.
+
+**Why it matters for recruiting:**  
+Directly addresses explainability and multi-actor transparency in job recommendation systems.
+
+**Tags:** explainability, recommender-systems, fairness
+
+---
+
+### GESA — Graph-Enhanced Semantic Allocation
+
+**Type:** Research framework  
+**Paper:** https://arxiv.org/abs/2509.25435  
+
+**What it is:**  
+A graph-based framework for fair and explainable candidate-to-role matching.
+
+**Why it matters for recruiting:**  
+Combines semantic matching, fairness constraints, and explainability — relevant for allocation and ranking systems.
+
+**Tags:** candidate-matching, explainability, fairness, graph-models
+
+---
+
+## Experimental & Evaluation Testbeds
+
+### Human-Centric Multimodal Recruitment Testbed
+
+**Type:** Research benchmark  
+**Paper:** https://arxiv.org/abs/2302.10908  
+
+**What it is:**  
+An experimental framework evaluating bias in multimodal recruitment systems (e.g. CVs, video, text).
+
+**Why it matters for recruiting:**  
+Demonstrates how bias propagates in complex, multimodal hiring pipelines.
+
+**Tags:** multimodal, evaluation, bias, testbed
