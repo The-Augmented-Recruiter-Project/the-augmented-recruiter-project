@@ -1,5 +1,9 @@
 # The Augmented Recruiter Project Manifesto
 
+**Augmentation is the use of tools to reduce friction in recruiting work while keeping judgment, responsibility, and decisions firmly human.**
+
+---
+
 ## Purpose
 
 The Augmented Recruiter Project exists to document how automation and artificial intelligence can be used in recruiting systems to **reduce friction without replacing human judgment**.
@@ -122,12 +126,6 @@ responsibility quietly shifts.
 This project treats augmentation as **work support**, not delegated judgment.
 
 That boundary is deliberate.
-
----
-
-**One-sentence definition**
-
-**Augmentation is the use of tools to reduce friction in recruiting work while keeping judgment, responsibility, and decisions firmly human.**
 
 ---
 
