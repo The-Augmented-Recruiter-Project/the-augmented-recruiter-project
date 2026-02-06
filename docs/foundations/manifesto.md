@@ -12,17 +12,63 @@ Any use of AI in this domain must be approached with **restraint, clarity, and a
 
 ---
 
-## A Simple Position 
+## A Direct Position on AI in Recruiting
 
-Artificial intelligence and Automation should remove unnecessary friction from recruiting work.
+This project takes a simple position.
 
-It should not replace:
+AI in recruiting should help you do your job **better**, not do your job **for you**.
 
-- judgment  
-- accountability  
-- responsibility for decisions  
+If a system:
+- makes hiring decisions on your behalf  
+- hides how decisions are made  
+- shifts responsibility away from named humans  
 
-When AI is used to automate judgment, obscure ownership, or hide decision-making behind opaque systems, it **creates risk** rather than value.
+…it is not augmentation.  
+It is abdication.
+
+We are not interested in “AI-led hiring”, “autonomous recruiting”, or systems that promise objectivity without accountability.
+
+Recruiting is a human responsibility.  
+Tools exist to support it — not replace it.
+
+---
+
+## The Core Boundaries
+
+These boundaries are the manifesto.  
+Everything else in this project exists to explain, test, or stress them.
+
+
+### 1. AI removes friction. Humans make decisions.
+
+### 2. Recruiting data requires restraint, not maximal extraction.
+
+CVs, assessments, and interview feedback are private — and should remain that way.
+
+### 3. If a human cannot explain a decision, an AI should not be involved.
+
+### 4. AI cannot fix unclear roles, weak judgment, or poor leadership.
+
+These are **not** aspirations.  
+They **are** constraints.
+
+Violating them introduces risk — legal, ethical, and organisational — regardless of claimed performance gains.
+
+---
+
+## Why This Exists
+
+Most recruiting failures attributed to AI are not technical failures.
+
+They are failures of:
+- ownership  
+- definition  
+- responsibility  
+
+This project documents where those failures appear, how systems quietly enable them, and how to design recruiting workflows that **keep humans accountable** while still doing more with less.
+
+[*Each boundary above links to a detailed explanation below.*](https://github.com/The-Augmented-Recruiter-Project/the-augmented-recruiter-project/edit/main/docs/foundations/manifesto.md#core-boundaries-for-ai-in-recruiting)
+
 
 ---
 
